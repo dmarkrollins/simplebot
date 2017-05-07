@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "simplebot-executor",
+    "name": "simplebot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "h5j4tarayl",
+    "module": "app"
+  }
+}
